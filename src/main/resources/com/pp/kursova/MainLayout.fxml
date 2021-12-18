@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pp.kursova.view.LayoutController">
+   <children>
+      <HBox prefHeight="460.0" prefWidth="770.0" spacing="5.0">
+         <children>
+            <VBox prefHeight="450.0" prefWidth="300.0" spacing="5.0">
+               <children>
+                  <HBox prefHeight="40.0" prefWidth="300.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="139.0" text="Переглянути:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <MenuButton fx:id="viewMenu" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" text="виберіть...">
+                          <items>
+                            <MenuItem fx:id="viewVansInStorageMenuItm" mnemonicParsing="false" onAction="#viewVansInStorageMenuItem" text="список фургонів на складі" />
+                            <MenuItem fx:id="viewCoffeeInStorageMenuItm" mnemonicParsing="false" onAction="#viewCoffeeInStorageMenuItem" text="список кави на складі" />
+                              <MenuItem fx:id="viewCoffeeInVanMenuItm" mnemonicParsing="false" onAction="#viewCoffeeInVanMenuItem" text="список кави в фургоні" />
+                          </items>
+                        </MenuButton>
+                     </children>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </HBox>
+                  <Separator prefHeight="0.0" prefWidth="186.0" />
+                  <HBox prefHeight="40.0" prefWidth="300.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="139.0" text="Добавити:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <MenuButton fx:id="addMenu" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" text="виберіть...">
+                           <items>
+                              <MenuItem fx:id="addVanToStorageMenuItm" mnemonicParsing="false" onAction="#addVanToStorageMenuItem" text="новий фургон" />
+                              <MenuItem fx:id="addCoffeeToStorageMenuItm" mnemonicParsing="false" onAction="#addCoffeeToStorageMenuItem" text="каву на склад" />
+                           </items>
+                        </MenuButton>
+                     </children>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </HBox>
+                  <Separator prefHeight="0.0" prefWidth="186.0" />
+                  <HBox prefHeight="40.0" prefWidth="300.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="139.0" text="Видалити:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <MenuButton fx:id="deleteMenu" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" text="виберіть...">
+                           <items>
+                              <MenuItem fx:id="deleteVanFromStorageMenuItm" mnemonicParsing="false" onAction="#deleteVanFromStorageMenuItem" text="фургон зі складу" />
+                              <MenuItem fx:id="deleteCoffeeFromStorageMenuItm" mnemonicParsing="false" onAction="#deleteCoffeeFromStorageMenuItem" text="каву зі складу" />
+                           </items>
+                        </MenuButton>
+                     </children>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </HBox>
+                  <Separator prefHeight="0.0" prefWidth="186.0" />
+                  <HBox prefHeight="40.0" prefWidth="300.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="139.0" text="Перенести:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <MenuButton fx:id="transferMenu" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" text="виберіть...">
+                           <items>
+                              <MenuItem fx:id="transferCoffeeFromStorageToVanMenuItm" mnemonicParsing="false" onAction="#transferCoffeeFromStorageToVanMenuItem" text="каву зі складу в фургон" />
+                              <MenuItem fx:id="transferCoffeeFromVanToStorageMenuItm" mnemonicParsing="false" onAction="#transferCoffeeFromVanToStorageMenuItem" text="каву з фургону на склад" />
+                           </items>
+                        </MenuButton>
+                     </children>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </HBox>
+                  <Separator prefHeight="0.0" prefWidth="186.0" />
+                  <HBox prefHeight="40.0" prefWidth="300.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="139.0" text="Додаткові дії:">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <MenuButton fx:id="sortAndFindMenu" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" text="виберіть...">
+                           <items>
+                              <MenuItem fx:id="sortCoffeeInVanMenuItm" mnemonicParsing="false" onAction="#sortCoffeeInVanMenuItem" text="посортувати каву в фургоні" />
+                              <MenuItem fx:id="findCoffeeInVanMenuItm" mnemonicParsing="false" onAction="#findCoffeeInVanMenuItem" text="знайти каву в фургоні" />
+                           </items>
+                        </MenuButton>
+                     </children>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </HBox>
+                  <Separator prefWidth="200.0" />
+                  <Button fx:id="saveToFileBtn" mnemonicParsing="false" onAction="#saveToFileMenuItem" prefHeight="38.0" prefWidth="295.0" text="Зберегти дані в файл">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Button>
+                  <Separator prefWidth="200.0" />
+                  <Button fx:id="loadFromFileBtn" mnemonicParsing="false" onAction="#loadFromFileMenuItem" prefHeight="38.0" prefWidth="295.0" text="Відновити дані з файлу">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Button>
+                  <Separator prefWidth="200.0" />
+                  <Button fx:id="exitBtn" mnemonicParsing="false" onAction="#exitMenuItem" prefHeight="38.0" prefWidth="295.0" text="Вихід">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Button>
+                  <Label prefHeight="30.0" prefWidth="295.0" text="Виконав: Лянг Андрій">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </VBox>
+            <Separator orientation="VERTICAL" prefHeight="200.0" />
+            <VBox prefHeight="450.0" prefWidth="450.0" spacing="5.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+               <children>
+                  <Label fx:id="resultLabel" prefHeight="25.0" prefWidth="450.0" text="Виберіть дію:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Pane fx:id="subPane" prefHeight="330.0" prefWidth="450.0">
+                     <children>
+                        <VBox fx:id="layoutVBox" layoutX="-1.0" prefHeight="330.0" prefWidth="450.0" spacing="5.0" />
+                     </children></Pane>
+                  <Label prefHeight="25.0" prefWidth="450.0" text="Остання виконана дія:">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="logLabel" prefHeight="49.0" prefWidth="450.0">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </HBox>
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</Pane>

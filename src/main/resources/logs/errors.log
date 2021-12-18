@@ -1,0 +1,22 @@
+2021-12-17 16:03:58 ERROR errorLogger:213 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2021-12-17 16:05:33 ERROR errorLogger:213 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2021-12-17 16:08:23 ERROR errorLogger:213 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2021-12-17 16:10:25 ERROR errorLogger:213 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2021-12-17 16:14:45 ERROR errorLogger:213 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2021-12-18 21:20:27 ERROR errorLogger:484 - java.lang.NullPointerException
+2021-12-18 21:20:27 ERROR errorLogger:498 - java.lang.NullPointerException
+2021-12-18 21:20:57 ERROR errorLogger:515 - java.lang.NullPointerException
+2021-12-18 21:20:57 ERROR errorLogger:524 - java.lang.NullPointerException
+2021-12-18 21:21:06 ERROR errorLogger:515 - java.lang.NullPointerException
+2021-12-18 21:21:06 ERROR errorLogger:524 - java.lang.NullPointerException
+2021-12-18 21:22:17 ERROR errorLogger:515 - java.lang.NullPointerException
+2021-12-18 21:22:17 ERROR errorLogger:524 - java.lang.NullPointerException
+2021-12-18 21:22:30 ERROR errorLogger:515 - java.lang.NullPointerException
+2021-12-18 21:22:30 ERROR errorLogger:524 - java.lang.NullPointerException
+2021-12-18 21:24:58 ERROR errorLogger:515 - java.lang.NullPointerException
+2021-12-18 21:24:58 ERROR errorLogger:524 - java.lang.NullPointerException
+2021-12-18 21:28:03 ERROR errorLogger:484 - java.lang.NullPointerException
+2021-12-18 21:28:03 ERROR errorLogger:498 - java.lang.NullPointerException
+2021-12-18 21:30:26 ERROR errorLogger:484 - java.lang.NullPointerException
+2021-12-18 21:30:26 ERROR errorLogger:499 - java.lang.NullPointerException
+2021-12-18 22:30:30 ERROR errorLogger:527 - java.io.InvalidClassException: com.pp.kursova.model.Van; local class incompatible: stream classdesc serialVersionUID = -1585932273993193576, local class serialVersionUID = -2667232605039842465

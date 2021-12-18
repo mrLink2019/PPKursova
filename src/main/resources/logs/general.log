@@ -1,0 +1,399 @@
+2021-12-15 18:00:22 INFO  generalLogger:17 - application has started
+2021-12-15 18:33:32 INFO  generalLogger:16 - application has started
+2021-12-15 18:39:45 INFO  generalLogger:16 - application has started
+2021-12-15 18:52:31 INFO  generalLogger:16 - application has started
+2021-12-15 19:00:18 INFO  generalLogger:16 - application has started
+2021-12-15 19:19:49 INFO  generalLogger:16 - application has started
+2021-12-15 20:13:34 INFO  generalLogger:16 - application has started
+2021-12-15 20:14:03 INFO  generalLogger:16 - application has started
+2021-12-15 20:32:10 INFO  generalLogger:16 - application has started
+2021-12-15 21:05:11 INFO  generalLogger:16 - application has started
+2021-12-15 21:08:43 INFO  generalLogger:16 - application has started
+2021-12-15 21:09:24 INFO  generalLogger:16 - application has started
+2021-12-15 21:15:04 INFO  generalLogger:16 - application has started
+2021-12-15 21:52:36 INFO  generalLogger:26 - application has started
+2021-12-15 22:24:43 INFO  generalLogger:25 - application has started
+2021-12-15 22:25:34 INFO  generalLogger:25 - application has started
+2021-12-15 22:26:19 INFO  generalLogger:25 - application has started
+2021-12-15 23:04:37 INFO  generalLogger:25 - application has started
+2021-12-15 23:08:58 INFO  generalLogger:25 - application has started
+2021-12-15 23:10:45 INFO  generalLogger:25 - application has started
+2021-12-15 23:11:29 INFO  generalLogger:25 - application has started
+2021-12-15 23:12:38 INFO  generalLogger:25 - application has started
+2021-12-15 23:14:53 INFO  generalLogger:25 - application has started
+2021-12-15 23:15:30 INFO  generalLogger:25 - application has started
+2021-12-15 23:40:21 INFO  generalLogger:26 - application has started
+2021-12-15 23:44:23 INFO  generalLogger:26 - application has started
+2021-12-15 23:48:16 INFO  generalLogger:26 - application has started
+2021-12-15 23:49:23 INFO  generalLogger:26 - application has started
+2021-12-16 01:09:07 INFO  generalLogger:26 - application has started
+2021-12-16 01:26:36 INFO  generalLogger:26 - application has started
+2021-12-16 01:29:36 INFO  generalLogger:26 - application has started
+2021-12-16 02:04:45 INFO  generalLogger:16 - application has started
+2021-12-16 02:05:41 INFO  generalLogger:26 - application has started
+2021-12-16 02:06:45 INFO  generalLogger:26 - application has started
+2021-12-16 02:10:10 INFO  generalLogger:16 - application has started
+2021-12-16 02:11:30 INFO  generalLogger:16 - application has started
+2021-12-16 02:22:30 INFO  generalLogger:16 - application has started
+2021-12-16 02:23:28 INFO  generalLogger:16 - application has started
+2021-12-16 02:24:37 INFO  generalLogger:16 - application has started
+2021-12-16 02:34:56 INFO  generalLogger:16 - application has started
+2021-12-16 02:36:44 INFO  generalLogger:16 - application has started
+2021-12-16 02:37:52 INFO  generalLogger:16 - application has started
+2021-12-16 03:33:45 INFO  generalLogger:16 - application has started
+2021-12-16 03:33:50 INFO  generalLogger:45 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 03:33:50 INFO  generalLogger:106 - makeMenuAction called withViewVansInStorageMenuItem
+2021-12-16 03:33:56 INFO  generalLogger:49 - viewMenu viewCoffeeInStorageMenuItm clicked
+2021-12-16 03:33:56 INFO  generalLogger:106 - makeMenuAction called withViewCoffeeInStorageMenuItem
+2021-12-16 03:33:59 INFO  generalLogger:53 - viewMenu viewCoffeeInVanMenuItm clicked
+2021-12-16 03:33:59 INFO  generalLogger:106 - makeMenuAction called withViewCoffeeInVanMenuItem
+2021-12-16 03:37:29 INFO  generalLogger:16 - application has started
+2021-12-16 03:37:32 INFO  generalLogger:45 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 03:37:32 INFO  generalLogger:106 - makeMenuAction called withViewVansInStorageMenuItem
+2021-12-16 03:37:35 INFO  generalLogger:32 - application has stopped
+2021-12-16 19:17:04 INFO  generalLogger:16 - application has started
+2021-12-16 19:19:50 INFO  generalLogger:31 - application has stopped
+2021-12-16 19:58:40 INFO  generalLogger:16 - application has started
+2021-12-16 19:58:50 INFO  generalLogger:79 - sortAndFindMenu sortCoffeeInVanMenuItm clicked
+2021-12-16 19:58:50 INFO  generalLogger:104 - makeMenuAction called withSortCoffeeInVanMenuItem
+2021-12-16 20:14:41 INFO  generalLogger:16 - application has started
+2021-12-16 20:14:46 INFO  generalLogger:33 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:14:46 INFO  generalLogger:94 - makeMenuAction called withViewVansInStorageMenuItem
+2021-12-16 20:14:48 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:15:19 INFO  generalLogger:16 - application has started
+2021-12-16 20:15:24 INFO  generalLogger:34 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:15:30 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:18:11 INFO  generalLogger:16 - application has started
+2021-12-16 20:18:15 INFO  generalLogger:33 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:18:17 INFO  generalLogger:37 - viewMenu viewCoffeeInStorageMenuItm clicked
+2021-12-16 20:18:17 INFO  generalLogger:94 - makeMenuAction called withViewCoffeeInStorageMenuItem
+2021-12-16 20:18:20 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:20:57 INFO  generalLogger:16 - application has started
+2021-12-16 20:21:03 INFO  generalLogger:34 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:21:06 INFO  generalLogger:38 - viewMenu viewCoffeeInStorageMenuItm clicked
+2021-12-16 20:21:06 INFO  generalLogger:95 - makeMenuAction called withViewCoffeeInStorageMenuItem
+2021-12-16 20:21:07 INFO  generalLogger:34 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:21:09 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:21:42 INFO  generalLogger:16 - application has started
+2021-12-16 20:21:46 INFO  generalLogger:34 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:21:48 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:37:05 INFO  generalLogger:16 - application has started
+2021-12-16 20:37:23 INFO  generalLogger:31 - application has stopped
+2021-12-16 20:38:35 INFO  generalLogger:16 - application has started
+2021-12-16 20:38:39 INFO  generalLogger:40 - viewMenu viewVansInStorageBtn clicked
+2021-12-16 20:38:41 INFO  generalLogger:31 - application has stopped
+2021-12-16 21:38:30 INFO  generalLogger:16 - application has started
+2021-12-16 21:38:48 INFO  generalLogger:31 - application has stopped
+2021-12-16 21:51:42 INFO  generalLogger:16 - application has started
+2021-12-16 21:52:22 INFO  generalLogger:31 - application has stopped
+2021-12-16 21:59:18 INFO  generalLogger:16 - application has started
+2021-12-16 22:00:03 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:48:17 INFO  generalLogger:16 - application has started
+2021-12-16 22:50:47 INFO  generalLogger:16 - application has started
+2021-12-16 22:50:57 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:51:26 INFO  generalLogger:16 - application has started
+2021-12-16 22:51:59 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:52:20 INFO  generalLogger:16 - application has started
+2021-12-16 22:52:30 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:53:18 INFO  generalLogger:16 - application has started
+2021-12-16 22:53:38 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:53:58 INFO  generalLogger:16 - application has started
+2021-12-16 22:54:42 INFO  generalLogger:16 - application has started
+2021-12-16 22:54:50 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:55:10 INFO  generalLogger:16 - application has started
+2021-12-16 22:55:18 INFO  generalLogger:31 - application has stopped
+2021-12-16 22:55:32 INFO  generalLogger:16 - application has started
+2021-12-16 22:55:37 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:00:39 INFO  generalLogger:16 - application has started
+2021-12-16 23:02:49 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:46:27 INFO  generalLogger:16 - application has started
+2021-12-16 23:46:53 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:47:28 INFO  generalLogger:16 - application has started
+2021-12-16 23:47:43 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:48:21 INFO  generalLogger:16 - application has started
+2021-12-16 23:48:33 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:50:15 INFO  generalLogger:16 - application has started
+2021-12-16 23:50:54 INFO  generalLogger:31 - application has stopped
+2021-12-16 23:51:29 INFO  generalLogger:16 - application has started
+2021-12-16 23:51:53 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:01:48 INFO  generalLogger:16 - application has started
+2021-12-17 00:02:53 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:05:13 INFO  generalLogger:16 - application has started
+2021-12-17 00:05:35 INFO  generalLogger:16 - application has started
+2021-12-17 00:05:47 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:09:09 INFO  generalLogger:16 - application has started
+2021-12-17 00:11:04 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:18:28 INFO  generalLogger:16 - application has started
+2021-12-17 00:19:04 INFO  generalLogger:16 - application has started
+2021-12-17 00:20:20 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:20:53 INFO  generalLogger:16 - application has started
+2021-12-17 00:21:28 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:22:09 INFO  generalLogger:16 - application has started
+2021-12-17 00:22:34 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:51:05 INFO  generalLogger:16 - application has started
+2021-12-17 00:52:14 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:53:15 INFO  generalLogger:16 - application has started
+2021-12-17 00:54:11 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:55:05 INFO  generalLogger:16 - application has started
+2021-12-17 00:55:37 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:56:00 INFO  generalLogger:16 - application has started
+2021-12-17 00:56:41 INFO  generalLogger:31 - application has stopped
+2021-12-17 00:58:51 INFO  generalLogger:16 - application has started
+2021-12-17 00:59:19 INFO  generalLogger:31 - application has stopped
+2021-12-17 01:02:06 INFO  generalLogger:16 - application has started
+2021-12-17 01:02:35 INFO  generalLogger:31 - application has stopped
+2021-12-17 01:03:30 INFO  generalLogger:16 - application has started
+2021-12-17 01:04:11 INFO  generalLogger:31 - application has stopped
+2021-12-17 01:16:08 INFO  generalLogger:16 - application has started
+2021-12-17 01:41:02 INFO  generalLogger:16 - application has started
+2021-12-17 01:41:43 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:03:49 INFO  generalLogger:16 - application has started
+2021-12-17 16:04:04 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:04:54 INFO  generalLogger:16 - application has started
+2021-12-17 16:04:57 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:05:28 INFO  generalLogger:16 - application has started
+2021-12-17 16:05:40 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:08:14 INFO  generalLogger:16 - application has started
+2021-12-17 16:08:26 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:10:20 INFO  generalLogger:16 - application has started
+2021-12-17 16:10:28 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:14:40 INFO  generalLogger:16 - application has started
+2021-12-17 16:14:48 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:19:55 INFO  generalLogger:16 - application has started
+2021-12-17 16:21:07 INFO  generalLogger:16 - application has started
+2021-12-17 16:21:38 INFO  generalLogger:16 - application has started
+2021-12-17 16:21:45 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:22:00 INFO  generalLogger:16 - application has started
+2021-12-17 16:23:32 INFO  generalLogger:16 - application has started
+2021-12-17 16:24:37 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:25:05 INFO  generalLogger:16 - application has started
+2021-12-17 16:25:18 INFO  generalLogger:31 - application has stopped
+2021-12-17 16:39:36 INFO  generalLogger:16 - application has started
+2021-12-17 16:40:09 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:10:41 INFO  generalLogger:16 - application has started
+2021-12-18 17:11:08 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:12:08 INFO  generalLogger:16 - application has started
+2021-12-18 17:12:34 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:13:08 INFO  generalLogger:16 - application has started
+2021-12-18 17:13:22 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:13:38 INFO  generalLogger:16 - application has started
+2021-12-18 17:14:12 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:14:31 INFO  generalLogger:16 - application has started
+2021-12-18 17:14:39 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:14:58 INFO  generalLogger:16 - application has started
+2021-12-18 17:15:10 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:15:27 INFO  generalLogger:16 - application has started
+2021-12-18 17:15:47 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:26:39 INFO  generalLogger:16 - application has started
+2021-12-18 17:28:44 INFO  generalLogger:16 - application has started
+2021-12-18 17:29:36 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:30:47 INFO  generalLogger:16 - application has started
+2021-12-18 17:31:08 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:42:34 INFO  generalLogger:16 - application has started
+2021-12-18 17:43:14 INFO  generalLogger:370 - new Coffee added to storage
+2021-12-18 17:43:17 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:45:05 INFO  generalLogger:16 - application has started
+2021-12-18 17:45:21 INFO  generalLogger:371 - new Coffee added to storage
+2021-12-18 17:47:15 INFO  generalLogger:16 - application has started
+2021-12-18 17:47:33 INFO  generalLogger:372 - new Coffee added to storage
+2021-12-18 17:48:07 INFO  generalLogger:31 - application has stopped
+2021-12-18 17:49:26 INFO  generalLogger:16 - application has started
+2021-12-18 17:51:26 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 17:53:17 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:02:33 INFO  generalLogger:16 - application has started
+2021-12-18 18:02:57 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:03:12 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:03:48 INFO  generalLogger:16 - application has started
+2021-12-18 18:03:59 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:04:11 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:04:28 INFO  generalLogger:16 - application has started
+2021-12-18 18:04:37 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:05:17 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:05:37 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:05:43 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:05:56 INFO  generalLogger:16 - application has started
+2021-12-18 18:07:06 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:07:17 INFO  generalLogger:369 - new Coffee added to storage
+2021-12-18 18:07:41 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:16:27 INFO  generalLogger:16 - application has started
+2021-12-18 18:23:08 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:45:47 INFO  generalLogger:16 - application has started
+2021-12-18 18:46:52 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:48:00 INFO  generalLogger:16 - application has started
+2021-12-18 18:48:35 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:52:58 INFO  generalLogger:16 - application has started
+2021-12-18 18:53:09 INFO  generalLogger:450 - new Coffee added to storage
+2021-12-18 18:53:23 INFO  generalLogger:31 - application has stopped
+2021-12-18 18:53:53 INFO  generalLogger:16 - application has started
+2021-12-18 18:54:01 INFO  generalLogger:31 - application has stopped
+2021-12-18 19:10:19 INFO  generalLogger:16 - application has started
+2021-12-18 19:11:05 INFO  generalLogger:31 - application has stopped
+2021-12-18 19:11:51 INFO  generalLogger:16 - application has started
+2021-12-18 19:12:08 INFO  generalLogger:31 - application has stopped
+2021-12-18 19:13:05 INFO  generalLogger:16 - application has started
+2021-12-18 19:13:38 INFO  generalLogger:542 - new Coffee added to storage
+2021-12-18 19:14:33 INFO  generalLogger:31 - application has stopped
+2021-12-18 19:17:09 INFO  generalLogger:16 - application has started
+2021-12-18 19:17:51 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:13:38 INFO  generalLogger:16 - application has started
+2021-12-18 20:15:13 INFO  generalLogger:16 - application has started
+2021-12-18 20:15:46 INFO  generalLogger:543 - new Coffee added to storage
+2021-12-18 20:17:37 INFO  generalLogger:16 - application has started
+2021-12-18 20:19:26 INFO  generalLogger:16 - application has started
+2021-12-18 20:20:09 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:20:16 INFO  generalLogger:16 - application has started
+2021-12-18 20:20:27 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:20:33 INFO  generalLogger:16 - application has started
+2021-12-18 20:20:45 INFO  generalLogger:544 - new Coffee added to storage
+2021-12-18 20:21:05 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:23:19 INFO  generalLogger:16 - application has started
+2021-12-18 20:24:20 INFO  generalLogger:547 - new Coffee added to storage
+2021-12-18 20:27:28 INFO  generalLogger:16 - application has started
+2021-12-18 20:27:44 INFO  generalLogger:548 - new Coffee added to storage
+2021-12-18 20:29:20 INFO  generalLogger:16 - application has started
+2021-12-18 20:29:34 INFO  generalLogger:551 - new Coffee added to storage
+2021-12-18 20:31:26 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:31:37 INFO  generalLogger:16 - application has started
+2021-12-18 20:31:55 INFO  generalLogger:551 - new Coffee added to storage
+2021-12-18 20:32:06 INFO  generalLogger:551 - new Coffee added to storage
+2021-12-18 20:34:14 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:40:21 INFO  generalLogger:16 - application has started
+2021-12-18 20:41:20 INFO  generalLogger:552 - new Coffee added to storage
+2021-12-18 20:41:47 INFO  generalLogger:552 - new Coffee added to storage
+2021-12-18 20:43:05 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:44:36 INFO  generalLogger:16 - application has started
+2021-12-18 20:44:47 INFO  generalLogger:31 - application has stopped
+2021-12-18 20:57:47 INFO  generalLogger:16 - application has started
+2021-12-18 20:58:21 INFO  generalLogger:589 - new Coffee added to storage
+2021-12-18 21:00:26 INFO  generalLogger:16 - application has started
+2021-12-18 21:00:55 INFO  generalLogger:590 - new Coffee added to storage
+2021-12-18 21:01:44 INFO  generalLogger:590 - new Coffee added to storage
+2021-12-18 21:02:53 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:05:28 INFO  generalLogger:16 - application has started
+2021-12-18 21:05:46 INFO  generalLogger:619 - new Coffee added to storage
+2021-12-18 21:06:18 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:14:47 INFO  generalLogger:16 - application has started
+2021-12-18 21:17:27 INFO  generalLogger:651 - new Coffee added to storage
+2021-12-18 21:17:35 INFO  generalLogger:651 - new Coffee added to storage
+2021-12-18 21:20:27 INFO  generalLogger:471 - button saveToFileBtn clicked
+2021-12-18 21:20:27 INFO  generalLogger:472 - trying to save Coffee data to file
+2021-12-18 21:20:27 INFO  generalLogger:487 - trying to save Vans data to file
+2021-12-18 21:20:57 INFO  generalLogger:506 - button loadFromFileBtn clicked
+2021-12-18 21:20:57 INFO  generalLogger:507 - trying to save Coffee data to file
+2021-12-18 21:20:57 INFO  generalLogger:517 - trying to save Vans data to file
+2021-12-18 21:21:06 INFO  generalLogger:506 - button loadFromFileBtn clicked
+2021-12-18 21:21:06 INFO  generalLogger:507 - trying to save Coffee data to file
+2021-12-18 21:21:06 INFO  generalLogger:517 - trying to save Vans data to file
+2021-12-18 21:21:24 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:22:09 INFO  generalLogger:16 - application has started
+2021-12-18 21:22:17 INFO  generalLogger:506 - button loadFromFileBtn clicked
+2021-12-18 21:22:17 INFO  generalLogger:507 - trying to save Coffee data to file
+2021-12-18 21:22:17 INFO  generalLogger:517 - trying to save Vans data to file
+2021-12-18 21:22:30 INFO  generalLogger:506 - button loadFromFileBtn clicked
+2021-12-18 21:22:30 INFO  generalLogger:507 - trying to save Coffee data to file
+2021-12-18 21:22:30 INFO  generalLogger:517 - trying to save Vans data to file
+2021-12-18 21:24:44 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:24:52 INFO  generalLogger:16 - application has started
+2021-12-18 21:24:58 INFO  generalLogger:506 - button loadFromFileBtn clicked
+2021-12-18 21:24:58 INFO  generalLogger:507 - trying to save Coffee data to file
+2021-12-18 21:24:58 INFO  generalLogger:517 - trying to save Vans data to file
+2021-12-18 21:25:05 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:27:24 INFO  generalLogger:16 - application has started
+2021-12-18 21:27:47 INFO  generalLogger:651 - new Coffee added to storage
+2021-12-18 21:27:54 INFO  generalLogger:651 - new Coffee added to storage
+2021-12-18 21:28:03 INFO  generalLogger:471 - button saveToFileBtn clicked
+2021-12-18 21:28:03 INFO  generalLogger:472 - trying to save Coffee data to file
+2021-12-18 21:28:03 INFO  generalLogger:487 - trying to save Vans data to file
+2021-12-18 21:28:08 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:30:21 INFO  generalLogger:16 - application has started
+2021-12-18 21:30:26 INFO  generalLogger:471 - button saveToFileBtn clicked
+2021-12-18 21:30:26 INFO  generalLogger:472 - trying to save Coffee data to file
+2021-12-18 21:30:26 INFO  generalLogger:488 - trying to save Vans data to file
+2021-12-18 21:30:29 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:38:59 INFO  generalLogger:16 - application has started
+2021-12-18 21:39:16 INFO  generalLogger:667 - new Coffee added to storage
+2021-12-18 21:39:24 INFO  generalLogger:667 - new Coffee added to storage
+2021-12-18 21:39:32 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:45:52 INFO  generalLogger:16 - application has started
+2021-12-18 21:49:35 INFO  generalLogger:16 - application has started
+2021-12-18 21:49:48 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:55:22 INFO  generalLogger:16 - application has started
+2021-12-18 21:55:38 INFO  generalLogger:31 - application has stopped
+2021-12-18 21:56:06 INFO  generalLogger:16 - application has started
+2021-12-18 21:56:11 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:00:12 INFO  generalLogger:16 - application has started
+2021-12-18 22:00:21 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:05:01 INFO  generalLogger:16 - application has started
+2021-12-18 22:05:09 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:12:24 INFO  generalLogger:16 - application has started
+2021-12-18 22:12:31 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:14:23 INFO  generalLogger:16 - application has started
+2021-12-18 22:14:35 INFO  generalLogger:472 - button saveToFileBtn clicked
+2021-12-18 22:14:35 INFO  generalLogger:473 - trying to save Coffee data to file
+2021-12-18 22:14:35 INFO  generalLogger:479 - Coffee data successfully saved
+2021-12-18 22:14:35 INFO  generalLogger:488 - trying to save Vans data to file
+2021-12-18 22:14:35 INFO  generalLogger:494 - Vans data successfully saved
+2021-12-18 22:14:38 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:14:58 INFO  generalLogger:16 - application has started
+2021-12-18 22:15:21 INFO  generalLogger:654 - new Coffee added to storage
+2021-12-18 22:15:30 INFO  generalLogger:654 - new Coffee added to storage
+2021-12-18 22:15:38 INFO  generalLogger:472 - button saveToFileBtn clicked
+2021-12-18 22:15:38 INFO  generalLogger:473 - trying to save Coffee data to file
+2021-12-18 22:15:38 INFO  generalLogger:479 - Coffee data successfully saved
+2021-12-18 22:15:38 INFO  generalLogger:488 - trying to save Vans data to file
+2021-12-18 22:15:38 INFO  generalLogger:494 - Vans data successfully saved
+2021-12-18 22:15:40 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:21:00 INFO  generalLogger:16 - application has started
+2021-12-18 22:21:05 INFO  generalLogger:509 - button loadFromFileBtn clicked
+2021-12-18 22:21:05 INFO  generalLogger:510 - trying to load Coffee data from file
+2021-12-18 22:21:05 INFO  generalLogger:516 - Coffee data successfully restored
+2021-12-18 22:21:05 INFO  generalLogger:520 - trying to load Vans data from file
+2021-12-18 22:21:05 INFO  generalLogger:525 - Vans data successfully restored
+2021-12-18 22:21:28 INFO  generalLogger:31 - application has stopped
+2021-12-18 22:30:25 INFO  generalLogger:14 - application has started
+2021-12-18 22:30:30 INFO  generalLogger:509 - button loadFromFileBtn clicked
+2021-12-18 22:30:30 INFO  generalLogger:510 - trying to load Coffee data from file
+2021-12-18 22:30:30 INFO  generalLogger:516 - Coffee data successfully restored
+2021-12-18 22:30:30 INFO  generalLogger:520 - trying to load Vans data from file
+2021-12-18 22:31:11 INFO  generalLogger:654 - new Coffee added to storage
+2021-12-18 22:31:15 INFO  generalLogger:472 - button saveToFileBtn clicked
+2021-12-18 22:31:15 INFO  generalLogger:473 - trying to save Coffee data to file
+2021-12-18 22:31:15 INFO  generalLogger:479 - Coffee data successfully saved
+2021-12-18 22:31:15 INFO  generalLogger:488 - trying to save Vans data to file
+2021-12-18 22:31:15 INFO  generalLogger:494 - Vans data successfully saved
+2021-12-18 22:31:34 INFO  generalLogger:509 - button loadFromFileBtn clicked
+2021-12-18 22:31:34 INFO  generalLogger:510 - trying to load Coffee data from file
+2021-12-18 22:31:34 INFO  generalLogger:516 - Coffee data successfully restored
+2021-12-18 22:31:34 INFO  generalLogger:520 - trying to load Vans data from file
+2021-12-18 22:31:34 INFO  generalLogger:525 - Vans data successfully restored
+2021-12-18 22:31:51 INFO  generalLogger:29 - application has stopped
+2021-12-18 22:37:16 INFO  generalLogger:14 - application has started
+2021-12-18 22:37:21 INFO  generalLogger:510 - button loadFromFileBtn clicked
+2021-12-18 22:37:21 INFO  generalLogger:511 - trying to load Coffee data from file
+2021-12-18 22:37:21 INFO  generalLogger:517 - Coffee data successfully restored
+2021-12-18 22:37:21 INFO  generalLogger:521 - trying to load Vans data from file
+2021-12-18 22:37:21 INFO  generalLogger:526 - Vans data successfully restored
+2021-12-18 22:37:31 INFO  generalLogger:29 - application has stopped
+2021-12-18 22:38:50 INFO  generalLogger:14 - application has started
+2021-12-18 22:39:05 INFO  generalLogger:510 - button loadFromFileBtn clicked
+2021-12-18 22:39:05 INFO  generalLogger:511 - trying to load Coffee data from file
+2021-12-18 22:39:05 INFO  generalLogger:517 - Coffee data successfully restored
+2021-12-18 22:39:05 INFO  generalLogger:521 - trying to load Vans data from file
+2021-12-18 22:39:05 INFO  generalLogger:526 - Vans data successfully restored
+2021-12-18 22:39:15 INFO  generalLogger:29 - application has stopped
+2021-12-18 23:00:17 INFO  generalLogger:14 - application has started
+2021-12-18 23:00:21 INFO  generalLogger:526 - loadFromFileBtn clicked
+2021-12-18 23:00:21 INFO  generalLogger:527 - trying to load Coffee data from file
+2021-12-18 23:00:21 INFO  generalLogger:533 - Coffee data successfully restored
+2021-12-18 23:00:21 INFO  generalLogger:537 - trying to load Vans data from file
+2021-12-18 23:00:21 INFO  generalLogger:542 - Vans data successfully restored
+2021-12-18 23:00:21 INFO  generalLogger:548 - full data successfully restored
+2021-12-18 23:00:24 INFO  generalLogger:42 - viewVansInStorageMenuItm clicked
+2021-12-18 23:00:28 INFO  generalLogger:49 - viewCoffeeInStorageMenuItm clicked
+2021-12-18 23:00:30 INFO  generalLogger:56 - viewCoffeeInVanMenuItm clicked
+2021-12-18 23:00:34 INFO  generalLogger:212 - deleteVanFromStorageMenuItm clicked
+2021-12-18 23:00:36 INFO  generalLogger:224 - van deleted
+2021-12-18 23:00:38 INFO  generalLogger:239 - deleteCoffeeFromStorageMenuItm clicked
+2021-12-18 23:00:39 INFO  generalLogger:251 - coffee deleted
+2021-12-18 23:00:41 INFO  generalLogger:553 - exitBtn clicked
+2021-12-18 23:00:41 INFO  generalLogger:29 - application has stopped
