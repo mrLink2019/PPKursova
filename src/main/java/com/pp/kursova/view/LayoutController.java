@@ -11,8 +11,8 @@ import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
+import javafx.scene.image.Image;
+import javafx.scene.layout.*;
 import org.apache.log4j.Logger;
 
 import java.io.*;
@@ -27,6 +27,7 @@ public class LayoutController implements Initializable {
     private Coffee selectedCoffee;
     private Storage storage;
 
+    @FXML private Pane root;
     @FXML private Label resultLabel;
     @FXML private Label logLabel;
     @FXML private VBox layoutVBox;
@@ -34,6 +35,13 @@ public class LayoutController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         storage = Storage.getInstance();
+        Image img = new Image("https://i.pinimg.com/564x/af/f1/15/aff1156c1cc33364b7e72bc912469457.jpg");
+        BackgroundImage bgImg = new BackgroundImage(img,
+                BackgroundRepeat.ROUND,
+                BackgroundRepeat.ROUND,
+                BackgroundPosition.CENTER,
+                BackgroundSize.DEFAULT);
+        root.setBackground(new Background(bgImg));
         resultLabel.setText("Виберіть дію:");
     }
 
@@ -564,6 +572,7 @@ public class LayoutController implements Initializable {
             ListView listView = new ListView();
             listView.setPrefWidth(450);
             listView.setPrefHeight(280);
+            listView.setStyle("-fx-background-color: transparent;");
             listView.getItems().addAll(vanList);
             listView.setCellFactory(new VanCellFactory());
             listView.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Van>() {
@@ -587,11 +596,13 @@ public class LayoutController implements Initializable {
             ListView listView = new ListView();
             listView.setPrefWidth(450);
             listView.setPrefHeight(280);
+            listView.setStyle("-fx-background-color: transparent;");
             listView.getItems().addAll(coffeeList);
             listView.setCellFactory(new CoffeeCellFactory());
             listView.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Coffee>() {
                 public void changed(ObservableValue<? extends Coffee> ov,
                                     final Coffee oldValue, final Coffee newValue) {
+
                     setSelectedCoffee(newValue);
                 }
             });
@@ -697,6 +708,7 @@ public class LayoutController implements Initializable {
             ListView listView = new ListView();
             listView.setPrefWidth(450);
             listView.setPrefHeight(330);
+            listView.setStyle("-fx-background-color: transparent;");
             layoutVBox.getChildren().add(listView);
             listView.getItems().addAll(coffeeList);
             listView.setCellFactory(new CoffeeCellFactory());
@@ -713,6 +725,7 @@ public class LayoutController implements Initializable {
             ListView listView = new ListView();
             listView.setPrefWidth(450);
             listView.setPrefHeight(330);
+            listView.setStyle("-fx-background-color: transparent;");
             layoutVBox.getChildren().add(listView);
             listView.getItems().addAll(vanList);
             listView.setCellFactory(new VanCellFactory());

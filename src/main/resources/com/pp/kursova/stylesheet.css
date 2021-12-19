@@ -1,0 +1,7 @@
+.list-cell:selected {
+    -fx-background-color: rgba(214,143,130,255);
+}
+
+.menu-button, .menu-item, .context-menu, .button {
+    -fx-background-color: #cabfb0;
+}

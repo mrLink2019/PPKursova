@@ -17,6 +17,11 @@ public class VanCell extends ListCell<Van> {
         }
         this.setText(name);
         this.setFont(Font.font(15));
+        this.setStyle("-fx-background-color: transparent;");
+        if(this.isPressed()) {
+            this.setStyle("-fx-border-color: rgba(214,143,130,255);");
+
+        }
         setGraphic(null);
     }
 }
