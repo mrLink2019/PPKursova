@@ -7,6 +7,6 @@ public class InstantBagCoffee extends Coffee {
 
     @Override
     public int calculateSortPrice(int sort) {
-        return super.getPriceForL() / sort;
+        return super.getPriceForKg() / sort;
     }
 }

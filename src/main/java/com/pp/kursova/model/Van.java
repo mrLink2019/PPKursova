@@ -6,6 +6,8 @@ import java.util.Collections;
 import java.util.Comparator;
 
 public class Van implements Serializable {
+    private static int id = 1;
+    private int vanId;
     private String name;
     private ArrayList<Coffee> cargo;
     private int cargoPrice = 0, vanVolume;
@@ -14,6 +16,8 @@ public class Van implements Serializable {
     public Van(String name, int vanVolume) {
         this.name = name;
         this.vanVolume = vanVolume;
+        this.vanId = id;
+        id++;
         cargo = new ArrayList<Coffee>();
     }
 
@@ -79,6 +83,14 @@ public class Van implements Serializable {
         return "ім'я: " + this.name + "; об'єм: " + this.vanVolume + ";";
     }
 
+    public int getVanId() {
+        return vanId;
+    }
+
+    public void setVanId(int vanId) {
+        this.vanId = vanId;
+    }
+
     public String getName() {
         return new String(name);
     }
@@ -91,8 +103,16 @@ public class Van implements Serializable {
         return cargoPrice;
     }
 
+    public void setCargoPrice(int cargoPrice) {
+        this.cargoPrice = cargoPrice;
+    }
+
     public double getCargoVolume() {
         return cargoVolume;
+    }
+
+    public void setCargoVolume(int cargoVolume) {
+        this.cargoVolume = cargoVolume;
     }
 
     public int getVanVolume() {

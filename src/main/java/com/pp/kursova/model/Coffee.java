@@ -3,17 +3,20 @@ package com.pp.kursova.model;
 import java.io.Serializable;
 
 public abstract class Coffee implements Serializable {
-    private final String coffeeType;
-    private final int sortsCount;
-    private final double packVolume;
-    private int sort = 1, priceForL, fullPrice = 0;
+    static int id = 1;
+    private String coffeeType;
+    private int sortsCount, priceForKg;
+    private double packVolume;
+    private int sort = 1, fullPrice = 0, coffeeId;
     private double fullVolume = 0;
 
-    Coffee (String coffeeType, int priceForL, int sortsCount, double packVolume) {
+    Coffee (String coffeeType, int priceForKg, int sortsCount, double packVolume) {
         this.coffeeType = coffeeType;
-        this.priceForL = priceForL;
+        this.priceForKg = priceForKg;
         this.sortsCount = sortsCount;
         this.packVolume = packVolume;
+        this.coffeeId = id;
+        id++;
     }
 
     public abstract int calculateSortPrice(int sort);
@@ -28,8 +31,16 @@ public abstract class Coffee implements Serializable {
 
     @Override
     public String toString() {
-        return coffeeType + " " + sort + " сорту, ціна за 1л " + calculateSortPrice(sort) +
-                ", загальна ціна " + fullPrice + ", об'єм " + (fullVolume* 100.00) / 100.00 + "л";
+        return coffeeType + " " + sort + " сорту, ціна за 1кг " + calculateSortPrice(sort) +
+                ", загальна ціна " + fullPrice + ", об'єм " + (fullVolume * 100.00) / 100.00 + "л";
+    }
+
+    public int getCoffeeId() {
+        return this.coffeeId;
+    }
+
+    public void setCoffeeId(int coffeeId) {
+        this.coffeeId = coffeeId;
     }
 
     public String getCoffeeType() {
@@ -53,8 +64,16 @@ public abstract class Coffee implements Serializable {
         return sort;
     }
 
-    public int getPriceForL() {
-        return priceForL;
+    public int getPriceForKg() {
+        return priceForKg;
+    }
+
+    public double getPackVolume() {
+        return this.packVolume;
+    }
+
+    public void setPackVolume(double packVolume) {
+        this.packVolume = packVolume;
     }
 
     public void setFullPrice(int fullPrice) {

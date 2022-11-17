@@ -831,3 +831,114 @@
 2021-12-19 16:10:29 INFO  generalLogger:550 - Vans data successfully restored
 2021-12-19 16:10:29 INFO  generalLogger:556 - full data successfully restored
 2021-12-19 16:10:31 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-19 20:13:39 INFO  generalLogger:14 - application has started
+2021-12-19 20:44:03 INFO  generalLogger:29 - application has stopped
+2021-12-20 02:10:36 INFO  generalLogger:14 - application has started
+2021-12-20 02:13:56 INFO  generalLogger:534 - loadFromFileBtn clicked
+2021-12-20 02:13:56 INFO  generalLogger:535 - trying to load Coffee data from file
+2021-12-20 02:13:56 INFO  generalLogger:545 - trying to load Vans data from file
+2021-12-20 02:13:56 INFO  generalLogger:556 - full data successfully restored
+2021-12-20 02:16:12 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 02:16:15 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 02:16:19 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 02:16:32 INFO  generalLogger:141 - added new van
+2021-12-20 02:16:35 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 02:16:47 INFO  generalLogger:141 - added new van
+2021-12-20 02:16:49 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 02:20:14 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 02:20:41 INFO  generalLogger:141 - added new van
+2021-12-20 02:20:46 INFO  generalLogger:220 - deleteVanFromStorageMenuItm clicked
+2021-12-20 02:21:12 INFO  generalLogger:232 - van deleted
+2021-12-20 02:21:19 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 02:21:50 INFO  generalLogger:689 - new Coffee added to storage
+2021-12-20 02:21:54 INFO  generalLogger:274 - transferCoffeeFromStorageToVanMenuItm clicked
+2021-12-20 02:22:01 INFO  generalLogger:299 - transferred Coffee From Storage To Van
+2021-12-20 02:22:18 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 02:22:26 INFO  generalLogger:689 - new Coffee added to storage
+2021-12-20 02:22:30 INFO  generalLogger:274 - transferCoffeeFromStorageToVanMenuItm clicked
+2021-12-20 02:22:33 INFO  generalLogger:299 - transferred Coffee From Storage To Van
+2021-12-20 02:22:36 INFO  generalLogger:413 - findCoffeeInVanMenuItm clicked
+2021-12-20 02:22:43 INFO  generalLogger:466 - find coffee successfully executed
+2021-12-20 02:32:11 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 02:33:54 INFO  generalLogger:689 - new Coffee added to storage
+2021-12-20 02:36:20 INFO  generalLogger:413 - findCoffeeInVanMenuItm clicked
+2021-12-20 02:36:39 INFO  generalLogger:466 - find coffee successfully executed
+2021-12-20 02:37:34 INFO  generalLogger:496 - saveToFileBtn clicked
+2021-12-20 02:37:34 INFO  generalLogger:497 - trying to save Coffee data to file
+2021-12-20 02:37:34 INFO  generalLogger:503 - Coffee data successfully saved
+2021-12-20 02:37:34 INFO  generalLogger:512 - trying to save Vans data to file
+2021-12-20 02:37:34 INFO  generalLogger:518 - Vans data successfully saved
+2021-12-20 02:37:34 INFO  generalLogger:529 - full data successfully saved
+2021-12-20 02:37:36 INFO  generalLogger:561 - exitBtn clicked
+2021-12-20 02:37:36 INFO  generalLogger:29 - application has stopped
+2021-12-20 15:21:57 INFO  generalLogger:14 - application has started
+2021-12-20 15:25:25 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 15:28:32 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 15:31:06 INFO  generalLogger:534 - loadFromFileBtn clicked
+2021-12-20 15:31:06 INFO  generalLogger:535 - trying to load Coffee data from file
+2021-12-20 15:31:06 INFO  generalLogger:541 - Coffee data successfully restored
+2021-12-20 15:31:06 INFO  generalLogger:545 - trying to load Vans data from file
+2021-12-20 15:31:06 INFO  generalLogger:550 - Vans data successfully restored
+2021-12-20 15:31:06 INFO  generalLogger:556 - full data successfully restored
+2021-12-20 15:31:09 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 15:31:10 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 15:33:36 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 15:38:33 INFO  generalLogger:29 - application has stopped
+2021-12-20 17:52:37 INFO  generalLogger:14 - application has started
+2021-12-20 17:52:43 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 17:52:50 INFO  generalLogger:141 - added new van
+2021-12-20 17:52:53 INFO  generalLogger:29 - application has stopped
+2021-12-20 17:53:53 INFO  generalLogger:14 - application has started
+2021-12-20 17:53:59 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 17:54:03 INFO  generalLogger:141 - added new van
+2021-12-20 17:54:07 INFO  generalLogger:561 - exitBtn clicked
+2021-12-20 17:54:07 INFO  generalLogger:29 - application has stopped
+2021-12-20 18:07:51 INFO  generalLogger:14 - application has started
+2021-12-20 18:07:59 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 18:08:08 INFO  generalLogger:29 - application has stopped
+2021-12-20 18:10:22 INFO  generalLogger:14 - application has started
+2021-12-20 18:10:28 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 18:10:34 INFO  generalLogger:141 - added new van
+2021-12-20 18:10:36 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 18:10:39 INFO  generalLogger:29 - application has stopped
+2021-12-20 18:15:08 INFO  generalLogger:14 - application has started
+2021-12-20 18:15:16 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 18:15:20 INFO  generalLogger:220 - deleteVanFromStorageMenuItm clicked
+2021-12-20 18:15:22 INFO  generalLogger:232 - van deleted
+2021-12-20 18:15:25 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 18:15:30 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2021-12-20 18:15:36 INFO  generalLogger:141 - added new van
+2021-12-20 18:15:38 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 18:15:40 INFO  generalLogger:220 - deleteVanFromStorageMenuItm clicked
+2021-12-20 18:15:42 INFO  generalLogger:232 - van deleted
+2021-12-20 18:15:44 INFO  generalLogger:29 - application has stopped
+2021-12-20 18:49:11 INFO  generalLogger:14 - application has started
+2021-12-20 18:49:54 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 18:49:59 INFO  generalLogger:689 - new Coffee added to storage
+2021-12-20 18:51:39 INFO  generalLogger:14 - application has started
+2021-12-20 18:51:47 INFO  generalLogger:158 - addCoffeeToStorageMenuItm clicked
+2021-12-20 18:51:53 INFO  generalLogger:689 - new Coffee added to storage
+2021-12-20 18:51:56 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 18:52:00 INFO  generalLogger:247 - deleteCoffeeFromStorageMenuItm clicked
+2021-12-20 18:52:02 INFO  generalLogger:259 - coffee deleted
+2021-12-20 18:52:41 INFO  generalLogger:14 - application has started
+2021-12-20 18:52:48 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 18:52:52 INFO  generalLogger:247 - deleteCoffeeFromStorageMenuItm clicked
+2021-12-20 18:52:54 INFO  generalLogger:259 - coffee deleted
+2021-12-20 18:53:01 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 18:53:42 INFO  generalLogger:29 - application has stopped
+2021-12-20 19:29:20 INFO  generalLogger:14 - application has started
+2021-12-20 19:29:27 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2021-12-20 19:29:30 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2021-12-20 19:29:33 INFO  generalLogger:29 - application has stopped
+2022-11-17 18:30:18 INFO  generalLogger:14 - application has started
+2022-11-17 18:30:26 INFO  generalLogger:534 - loadFromFileBtn clicked
+2022-11-17 18:30:26 INFO  generalLogger:535 - trying to load Coffee data from file
+2022-11-17 18:30:26 INFO  generalLogger:545 - trying to load Vans data from file
+2022-11-17 18:30:26 INFO  generalLogger:556 - full data successfully restored
+2022-11-17 18:30:30 INFO  generalLogger:50 - viewVansInStorageMenuItm clicked
+2022-11-17 18:30:32 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2022-11-17 18:30:35 INFO  generalLogger:98 - addVanToStorageMenuItm clicked
+2022-11-17 18:30:38 INFO  generalLogger:57 - viewCoffeeInStorageMenuItm clicked
+2022-11-17 18:30:39 INFO  generalLogger:64 - viewCoffeeInVanMenuItm clicked
+2022-11-17 18:30:43 INFO  generalLogger:29 - application has stopped
